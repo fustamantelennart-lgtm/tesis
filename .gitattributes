@@ -1,0 +1,4 @@
+# Sin conversion de finales de linea: cada archivo se guarda byte a byte.
+# La identidad CP04 (scripts/identidad_cp04.ps1 / .py) y las huellas SHA-256
+# registradas en la evidencia dependen de los bytes exactos de los archivos.
+* -text

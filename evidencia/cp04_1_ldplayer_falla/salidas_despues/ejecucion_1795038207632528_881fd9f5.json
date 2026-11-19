@@ -1,0 +1,29 @@
+{
+  "id": "1795038207632528_881fd9f5",
+  "estado": "terminada",
+  "inicio_utc": "2026-11-18T21:43:27.633621Z",
+  "huella": "5a3d9c80be8485a8e0e3f74ef41dae3c3c66cd11fca6f859d87918e30f049a01",
+  "identidad": {
+    "manifest_sha256": "912ca1d6932025f8583bf3ef1ec5b362b6b702c067cadf41578e18e53af7ac6d",
+    "modelos_sha256": {
+      "arroz": "0728e2ddedc0db0959870ef420c204df3094fd780ef520c0d3fb2b10a9090040",
+      "cana": "9042f0dffc63a6c143fd64a8d36a34ab25bc96cb74b21e51df35d7e88a368bec"
+    },
+    "codigo_sha256": "dc7401a3ef4a668e4f6617d9e21e75158bcab7a741b0e7ba5e754137881432a1",
+    "preprocesamiento": "rgb_exif_tf_bilinear_pad_224_div255_v1",
+    "criterio_score": "abs(android-colab) <= 1e-5 + 1e-4*abs(colab)",
+    "criterio_categoria": "mismo_umbral_y_misma_clase",
+    "criterio_tensor_diagnostico": null,
+    "entorno": {
+      "fabricante": "SONY",
+      "modelo": "SOV44",
+      "android": "14",
+      "sdk": 34,
+      "fisico": true
+    }
+  },
+  "total": 629,
+  "fin_utc": "2026-11-18T22:02:29.956222Z",
+  "informe_json": "/storage/emulated/0/Android/data/com.example.campo_cnn/files/cp04/salidas/comparacion_1795038207632528_881fd9f5_1795039349914284_291cb51a.json",
+  "informe_csv": "/storage/emulated/0/Android/data/com.example.campo_cnn/files/cp04/salidas/comparacion_1795038207632528_881fd9f5_1795039349914284_291cb51a.csv"
+}

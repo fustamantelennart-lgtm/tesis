@@ -1,0 +1,37 @@
+name: campo_cnn
+description: Prototipo Android para diagnóstico local y medición de dos CNN.
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite_flutter: 0.12.1
+  file_picker: ^8.3.7
+  image_picker: ^1.1.2
+  # Fijado: la orientacion EXIF y el lector de EXIF dependen de esta version.
+  image: 4.13.1
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  share_plus: ^10.1.4
+  device_info_plus: ^11.3.0
+  crypto: ^3.0.6
+  sqflite: ^2.4.2
+  flutter_local_notifications: ^19.5.0
+  timezone: ^0.10.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/arroz.tflite
+    - assets/cana.tflite
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  sqflite_common_ffi: ^2.3.6
+  flutter_lints: ^6.0.0

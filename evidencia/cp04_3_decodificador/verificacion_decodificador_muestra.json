@@ -1,0 +1,91 @@
+{
+ "pillow": "11.3.0",
+ "libjpeg_turbo": "3.1.1",
+ "manifest_sha256": "912ca1d6932025f8583bf3ef1ec5b362b6b702c067cadf41578e18e53af7ac6d",
+ "preprocesamiento_sha256": "58b39d532a55174d49c449d50a6ee9a7675c3ba9d70bce265cdafd890d606c64",
+ "decodificador_sha256": "33494a0477e72acfe3cf990a52132c64bdcf99fc002ec5689750ade526bd14ae",
+ "evaluadas": 6,
+ "por_cultivo": {
+  "arroz": {
+   "fotografias": 3,
+   "rgb_identico": 3,
+   "tensor_bit_identico": 0,
+   "tensor_max_abs_max": 0.000004649162292480469
+  },
+  "cana": {
+   "fotografias": 3,
+   "rgb_identico": 3,
+   "tensor_bit_identico": 0,
+   "tensor_max_abs_max": 3.5762786865234375e-7
+  }
+ },
+ "nota": "Sin TFLite: no evalua scores. El criterio CP04 se mide en Android.",
+ "resultados": [
+  {
+   "indice": 59,
+   "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0060.jpg",
+   "cultivo": "arroz",
+   "orientacion_exif": null,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 0.0000034570693969726562,
+   "tensor_rmse": 2.1569576485242044e-7,
+   "tensor_valores_distintos": 92730
+  },
+  {
+   "indice": 62,
+   "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0063.jpg",
+   "cultivo": "arroz",
+   "orientacion_exif": null,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 0.000004649162292480469,
+   "tensor_rmse": 3.0029962050511974e-7,
+   "tensor_valores_distintos": 99036
+  },
+  {
+   "indice": 193,
+   "ruta_relativa": "arroz/val/sano/val_arroz_sano_0037.jpg",
+   "cultivo": "arroz",
+   "orientacion_exif": null,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 0.000003635883331298828,
+   "tensor_rmse": 2.577077228685993e-7,
+   "tensor_valores_distintos": 99530
+  },
+  {
+   "indice": 264,
+   "ruta_relativa": "cana/val/sano/test_cana_sano_0092.JPG",
+   "cultivo": "cana",
+   "orientacion_exif": 1,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 2.980232238769531e-7,
+   "tensor_rmse": 5.374495611668286e-8,
+   "tensor_valores_distintos": 80100
+  },
+  {
+   "indice": 371,
+   "ruta_relativa": "cana/val/roya/train_cana_roya_0515.jpg",
+   "cultivo": "cana",
+   "orientacion_exif": 6,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 2.980232238769531e-7,
+   "tensor_rmse": 3.500801636766664e-8,
+   "tensor_valores_distintos": 80521
+  },
+  {
+   "indice": 513,
+   "ruta_relativa": "cana/val/sano/train_cana_sano_0559.JPG",
+   "cultivo": "cana",
+   "orientacion_exif": 6,
+   "rgb_identico_pillow": true,
+   "tensor_bit_identico_colab": false,
+   "tensor_max_abs": 3.5762786865234375e-7,
+   "tensor_rmse": 5.172129897891929e-8,
+   "tensor_valores_distintos": 79826
+  }
+ ]
+}

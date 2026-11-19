@@ -1,0 +1,43 @@
+﻿{
+    "entorno":  "LDPlayer, instancia emulator-5554; Android declara SONY SOV44 y fisico=true, metadatos emulados",
+    "id_ejecucion":  "1795038207632528_881fd9f5",
+    "estado":  "comparacion_falla",
+    "total_esperado":  629,
+    "entradas_verificadas":  629,
+    "comparadas":  629,
+    "reutilizadas":  0,
+    "filas_csv":  629,
+    "fotografias_afectadas":  387,
+    "manifiesto_sha256":  "912ca1d6932025f8583bf3ef1ec5b362b6b702c067cadf41578e18e53af7ac6d",
+    "codigo_sha256":  "dc7401a3ef4a668e4f6617d9e21e75158bcab7a741b0e7ba5e754137881432a1",
+    "informe_json_sha256":  "485d9458268b2df6e62036ee46ceedf2e30fb2ca7a10fe366f1906381d1ce943",
+    "informe_csv_sha256":  "808d5540c28dd6c6f3598af60946011f2ad48c2ccca23c93781917f86e298dca",
+    "por_cultivo":  [
+                        {
+                            "cultivo":  "arroz",
+                            "fotografias":  217,
+                            "errores_ejecucion":  0,
+                            "score_fuera_tolerancia":  171,
+                            "categoria_diferente":  2,
+                            "discrepancias_score_o_categoria":  171,
+                            "tensor_con_valores_distintos":  217,
+                            "tensor_max_abs_min":  0.0068715512752532959,
+                            "tensor_max_abs_promedio":  0.01750059400294577,
+                            "tensor_max_abs_max":  0.034970156848430634,
+                            "tensor_max_abs_fotografia":  "arroz/val/sano/val_arroz_sano_0047.jpg"
+                        },
+                        {
+                            "cultivo":  "cana",
+                            "fotografias":  412,
+                            "errores_ejecucion":  0,
+                            "score_fuera_tolerancia":  216,
+                            "categoria_diferente":  192,
+                            "discrepancias_score_o_categoria":  216,
+                            "tensor_con_valores_distintos":  412,
+                            "tensor_max_abs_min":  0.0038707852363586426,
+                            "tensor_max_abs_promedio":  0.95252192454331763,
+                            "tensor_max_abs_max":  1.0000001192092896,
+                            "tensor_max_abs_fotografia":  "cana/val/roya/train_cana_roya_0555.jpg"
+                        }
+                    ]
+}

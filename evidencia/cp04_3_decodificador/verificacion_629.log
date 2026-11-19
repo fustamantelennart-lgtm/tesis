@@ -1,0 +1,33 @@
+﻿00:00 +0: loading C:/Campo_CNN_Prototipo_Android (1)/campo_cnn_app/tool/cp04_decodificador_test.dart
+flutter : Package image_picker:linux references image_picker_linux:linux as the default plugin, but the package does 
+not exist, or is not a plugin package.
+En línea: 1 Carácter: 379
++ ... INDICES=''; flutter test --no-pub tool/cp04_decodificador_test.dart - ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Package image_p...plugin package.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Ask the maintainers of image_picker to either avoid referencing a default implementation via `platforms: linux: 
+default_package: image_picker_linux` or create a plugin named image_picker_linux.
+
+Package image_picker:windows references image_picker_windows:windows as the default plugin, but the package does not 
+exist, or is not a plugin package.
+Ask the maintainers of image_picker to either avoid referencing a default implementation via `platforms: windows: 
+default_package: image_picker_windows` or create a plugin named image_picker_windows.
+
+00:00 +0: CP04 decodificador: RGB Pillow exacto y tensor Colab, 629 originales
+{
+ "arroz": {
+  "fotografias": 217,
+  "rgb_identico": 217,
+  "tensor_bit_identico": 0,
+  "tensor_max_abs_max": 0.00000998377799987793
+ },
+ "cana": {
+  "fotografias": 412,
+  "rgb_identico": 412,
+  "tensor_bit_identico": 0,
+  "tensor_max_abs_max": 5.960464477539062e-7
+ }
+}
+08:28 +1: All tests passed!

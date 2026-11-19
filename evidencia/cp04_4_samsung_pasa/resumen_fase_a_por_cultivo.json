@@ -1,0 +1,20 @@
+[
+    {
+        "cultivo":  "arroz",
+        "filas":  217,
+        "errores":  0,
+        "motor_score_falla":  0,
+        "motor_categoria_difiere":  0,
+        "diagnostico_score_falla":  0,
+        "diagnostico_categoria_difiere":  0
+    },
+    {
+        "cultivo":  "cana",
+        "filas":  412,
+        "errores":  0,
+        "motor_score_falla":  0,
+        "motor_categoria_difiere":  0,
+        "diagnostico_score_falla":  0,
+        "diagnostico_categoria_difiere":  0
+    }
+]

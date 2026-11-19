@@ -1,0 +1,12 @@
+{
+    "csv_lineas":  630,
+    "filas_unicas":  629,
+    "orden_igual_manifiesto":  true,
+    "indices_explicitos":  394,
+    "sha_originales_correctos":  629,
+    "sha_tensores_correctos":  629,
+    "fase_a_resultados":  629,
+    "fase_a_estado":  "referencia_pasa",
+    "codigo_identico":  true,
+    "entorno_samsung":  true
+}

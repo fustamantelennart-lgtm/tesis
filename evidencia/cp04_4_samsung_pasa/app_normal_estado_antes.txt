@@ -1,0 +1,5 @@
+    versionCode=1 minSdk=24 targetSdk=36
+    versionName=0.1.0
+    lastUpdateTime=2026-11-14 17:53:26
+      dataDir=/data/user/0/com.example.campo_cnn
+      firstInstallTime=2026-11-14 17:53:26

@@ -1,0 +1,3 @@
+﻿"cultivo","fotografias","errores_ejecucion","score_fuera_tolerancia","categoria_diferente","discrepancias_score_o_categoria","tensor_con_valores_distintos","tensor_max_abs_min","tensor_max_abs_promedio","tensor_max_abs_max","tensor_max_abs_fotografia"
+"arroz","217","0","171","2","171","217","0.0068715512752533","0.0175005940029458","0.0349701568484306","arroz/val/sano/val_arroz_sano_0047.jpg"
+"cana","412","0","216","192","216","412","0.00387078523635864","0.952521924543318","1.00000011920929","cana/val/roya/train_cana_roya_0555.jpg"

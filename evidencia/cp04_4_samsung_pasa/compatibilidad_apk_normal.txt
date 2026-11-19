@@ -1,0 +1,8 @@
+..\respaldo_cp04_samsung_20261118_210905\aplicacion_normal_antes.apk
+package: name='com.example.campo_cnn' versionCode='1' versionName='0.1.0' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'
+V2 Signer: certificate SHA-256 digest: f472f76e83a9bc4f488d71ab565b096b1ed4907f11d1de9f11ef00a58299e13d
+SHA256 F8CEEF8875069E1233A5B98F9B9B00626932967389B9EA0A42A90DE871A9E5CC
+build\app\outputs\flutter-apk\Campo_CNN_Samsung_aplicacion_corregida_release.apk
+package: name='com.example.campo_cnn' versionCode='1' versionName='0.1.0' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'
+V2 Signer: certificate SHA-256 digest: f472f76e83a9bc4f488d71ab565b096b1ed4907f11d1de9f11ef00a58299e13d
+SHA256 FD9AF63A7D98A20D6F5D5AB16EE2D9C4278FC941FE28E513E455D130D528F196

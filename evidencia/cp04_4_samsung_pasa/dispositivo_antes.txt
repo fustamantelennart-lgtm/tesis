@@ -1,0 +1,5 @@
+SM-A166M
+15
+Filesystem      Size Used Avail Use% Mounted on
+/dev/fuse       106G  49G   57G  47% /storage/emulated
+package:/data/app/~~PteN1O5XNqKIUiZHYhORTQ==/com.example.campo_cnn-hx_8nmgMzbptbPJKVy3uaw==/base.apk

@@ -1,0 +1,189 @@
+{
+  "pillow": "11.3.0",
+  "libjpeg_turbo": "3.1.1",
+  "casos": [
+    {
+      "nombre": "base_420",
+      "jpeg": "base_420.jpg",
+      "png": "base_420_pillow.png",
+      "sha256_jpeg": "395f3b2ce97b3c4c5be1fdfc1373cdf028f3e9a853209afca61e9e365a496b71",
+      "sha256_rgb": "815a266913ffa2bccbd00303b382e1b24f8d01ae492e5df14f13e2a0cec5da41",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "subsampling": 2,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "base_422",
+      "jpeg": "base_422.jpg",
+      "png": "base_422_pillow.png",
+      "sha256_jpeg": "4ca0f658d202afec26795dfc0eb6b741239600a4f05706727572da138d98b474",
+      "sha256_rgb": "8ab54af49f6480382d55788a1cf38d8aa1b620df932644a6deb7f4762620feab",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "subsampling": 1,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "base_444",
+      "jpeg": "base_444.jpg",
+      "png": "base_444_pillow.png",
+      "sha256_jpeg": "8cb7e579a47397848faf9f46eab874f0742dc413658d83df60a51fa09f37f978",
+      "sha256_rgb": "9c12b9bb7813138e4618bc500dd679e5a8379b2d9becb4e834c460a8168edec5",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "subsampling": 0,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "prog_420",
+      "jpeg": "prog_420.jpg",
+      "png": "prog_420_pillow.png",
+      "sha256_jpeg": "ad94744d1ee92c8e5c85d8f676ddc968cc41e1f595a3b9a5f04bed6b0afe8ce2",
+      "sha256_rgb": "3a84cf6bf2981bd5694c0cc16621f8ad82ab736d580dacf55056a456addd8cba",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": true,
+      "opciones": {
+        "quality": 85,
+        "subsampling": 2,
+        "progressive": true,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "prog_444",
+      "jpeg": "prog_444.jpg",
+      "png": "prog_444_pillow.png",
+      "sha256_jpeg": "a7666b591212339865d4b53a2661ebd94900242f64175a431239b7621efaf6cf",
+      "sha256_rgb": "e2a8a363c1a52a4042ae83fd45ea8feceea6dabe40862d4d7eda9977229a6b2f",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": true,
+      "opciones": {
+        "quality": 97,
+        "subsampling": 0,
+        "progressive": true,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "reinicio_420",
+      "jpeg": "reinicio_420.jpg",
+      "png": "reinicio_420_pillow.png",
+      "sha256_jpeg": "96dac74a4d9d1dc85c565193bb2ea0d657b15f1dd59ade3b74a4a2e7d7d1ff0b",
+      "sha256_rgb": "04955df7ae437d68dd7fb62c413d05eee7c4f92313a4061ff08adaaf34f39c00",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 80,
+        "subsampling": 2,
+        "restart_marker_blocks": 3,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "rgb_adobe",
+      "jpeg": "rgb_adobe.jpg",
+      "png": "rgb_adobe_pillow.png",
+      "sha256_jpeg": "ab058b282f93061ed049504f13665826090948f51c6bbaf14d6b622f20afc433",
+      "sha256_rgb": "1b8ab6f1dc192437bf76b239f3b15e372b5a5a18b36de84c9475d424857f4e9f",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "keep_rgb": true,
+        "subsampling": 0,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "gris",
+      "jpeg": "gris.jpg",
+      "png": "gris_pillow.png",
+      "sha256_jpeg": "b93737d8a1fc0132c3be9a0568889e57c8606ed4fddebab37104b7a417e41bcc",
+      "sha256_rgb": "4ea660bfbafb60ef078bd23717be0a13716bfc8edbca0e0d98c5caaa04c8c990",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "modo": "L"
+      }
+    },
+    {
+      "nombre": "prog_gris",
+      "jpeg": "prog_gris.jpg",
+      "png": "prog_gris_pillow.png",
+      "sha256_jpeg": "903a3091b1dc47f9e0b1481105e39062abbcffdfb75b479e6a69e1b6e61be430",
+      "sha256_rgb": "58afb1a6bca514776392ec0bc8492e6c524336728d94f1d6ece87c08fad29ec3",
+      "ancho": 61,
+      "alto": 45,
+      "progresivo": true,
+      "opciones": {
+        "quality": 90,
+        "progressive": true,
+        "modo": "L"
+      }
+    },
+    {
+      "nombre": "estrecha_420",
+      "jpeg": "estrecha_420.jpg",
+      "png": "estrecha_420_pillow.png",
+      "sha256_jpeg": "2c87634b4344255d6106495f20cdc2be45c3d483bd2b9b71569d217cee5289c9",
+      "sha256_rgb": "2f1d8193f7aab9b7329db2a2023c8229a5cac66c05e435e23ffff083ffff75e4",
+      "ancho": 3,
+      "alto": 17,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "subsampling": 2,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "diminuta_422",
+      "jpeg": "diminuta_422.jpg",
+      "png": "diminuta_422_pillow.png",
+      "sha256_jpeg": "43f628a838ddd5e4bab451375865d78e4997c892c8a32ab3b9698d60b0b9cda8",
+      "sha256_rgb": "25e4f55d700db2ffc8c533b62be349d29de41007d58abf3eced2c09077f98852",
+      "ancho": 2,
+      "alto": 3,
+      "progresivo": false,
+      "opciones": {
+        "quality": 90,
+        "subsampling": 1,
+        "modo": "RGB"
+      }
+    },
+    {
+      "nombre": "alta_420",
+      "jpeg": "alta_420.jpg",
+      "png": "alta_420_pillow.png",
+      "sha256_jpeg": "a7f8592d669f21bb256c0d3d46895252e1b52025543141099e0628fe9dd5c47c",
+      "sha256_rgb": "20eea0ae5a7b7d28715c2ff733f8aa52978f0aac1d15f7488a2464f0e065de35",
+      "ancho": 17,
+      "alto": 64,
+      "progresivo": false,
+      "opciones": {
+        "quality": 60,
+        "subsampling": 2,
+        "modo": "RGB"
+      }
+    }
+  ]
+}

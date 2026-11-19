@@ -1,0 +1,477 @@
+{
+  "pillow": "11.3.0",
+  "casos": [
+    {
+      "orientacion": 1,
+      "original": "exif_1.jpg",
+      "sha256_original": "df6bf0864dbe6b4076634803dcfb82dd8fbd2aa86d8a716494c098db6ae31da1",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 224,
+      "alto_pillow": 112,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 28,
+          "x_tensor": 56,
+          "y_tensor": 84,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 28,
+          "x_tensor": 168,
+          "y_tensor": 84,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 84,
+          "x_tensor": 56,
+          "y_tensor": 140,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 84,
+          "x_tensor": 168,
+          "y_tensor": 140,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 2,
+      "original": "exif_2.jpg",
+      "sha256_original": "cf37b0d8cab62b82fb5efc75d8343e3eddd15a0520e9856789617695b6550a54",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 224,
+      "alto_pillow": 112,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 28,
+          "x_tensor": 56,
+          "y_tensor": 84,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 28,
+          "x_tensor": 168,
+          "y_tensor": 84,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 84,
+          "x_tensor": 56,
+          "y_tensor": 140,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 84,
+          "x_tensor": 168,
+          "y_tensor": 140,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 3,
+      "original": "exif_3.jpg",
+      "sha256_original": "62362e803747d98ee8601c07298adecdc8bc28747b59aa760600cd31d17371f7",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 224,
+      "alto_pillow": 112,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 28,
+          "x_tensor": 56,
+          "y_tensor": 84,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 28,
+          "x_tensor": 168,
+          "y_tensor": 84,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 84,
+          "x_tensor": 56,
+          "y_tensor": 140,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 84,
+          "x_tensor": 168,
+          "y_tensor": 140,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 4,
+      "original": "exif_4.jpg",
+      "sha256_original": "b56731f0065c415a4d96b7a90f75a64079191655e2a7bbb9d6449a8785cd3530",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 224,
+      "alto_pillow": 112,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 28,
+          "x_tensor": 56,
+          "y_tensor": 84,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 28,
+          "x_tensor": 168,
+          "y_tensor": 84,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 56,
+          "y_orientado": 84,
+          "x_tensor": 56,
+          "y_tensor": 140,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 168,
+          "y_orientado": 84,
+          "x_tensor": 168,
+          "y_tensor": 140,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 5,
+      "original": "exif_5.jpg",
+      "sha256_original": "89b3ab8d5995fc8b80851e8344d14ba8e7ee0a44381c848c3e0f972f4636e41a",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 112,
+      "alto_pillow": 224,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 56,
+          "x_tensor": 84,
+          "y_tensor": 56,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 56,
+          "x_tensor": 140,
+          "y_tensor": 56,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 168,
+          "x_tensor": 84,
+          "y_tensor": 168,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 168,
+          "x_tensor": 140,
+          "y_tensor": 168,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 6,
+      "original": "exif_6.jpg",
+      "sha256_original": "0928d815b76a9ca1e297b1c134f1238562ef09e4be02c4e5b929360caf3cb0ec",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 112,
+      "alto_pillow": 224,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 56,
+          "x_tensor": 84,
+          "y_tensor": 56,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 56,
+          "x_tensor": 140,
+          "y_tensor": 56,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 168,
+          "x_tensor": 84,
+          "y_tensor": 168,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 168,
+          "x_tensor": 140,
+          "y_tensor": 168,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 7,
+      "original": "exif_7.jpg",
+      "sha256_original": "82e55c20281581ee1da472c263fbdfea950d46b52c8147a969022c6b1bc49b1a",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 112,
+      "alto_pillow": 224,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 56,
+          "x_tensor": 84,
+          "y_tensor": 56,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 56,
+          "x_tensor": 140,
+          "y_tensor": 56,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 168,
+          "x_tensor": 84,
+          "y_tensor": 168,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 168,
+          "x_tensor": 140,
+          "y_tensor": 168,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "orientacion": 8,
+      "original": "exif_8.jpg",
+      "sha256_original": "db5cf2c5759a9e6777d370a1fa665c0343132169a060158b29a53c94906f1375",
+      "ancho_original": 224,
+      "alto_original": 112,
+      "ancho_pillow": 112,
+      "alto_pillow": 224,
+      "puntos": [
+        {
+          "nombre": "superior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 56,
+          "x_tensor": 84,
+          "y_tensor": 56,
+          "rgb": [
+            21,
+            220,
+            41
+          ]
+        },
+        {
+          "nombre": "superior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 56,
+          "x_tensor": 140,
+          "y_tensor": 56,
+          "rgb": [
+            239,
+            220,
+            20
+          ]
+        },
+        {
+          "nombre": "inferior_izquierda",
+          "x_orientado": 28,
+          "y_orientado": 168,
+          "x_tensor": 84,
+          "y_tensor": 168,
+          "rgb": [
+            240,
+            20,
+            30
+          ]
+        },
+        {
+          "nombre": "inferior_derecha",
+          "x_orientado": 84,
+          "y_orientado": 168,
+          "x_tensor": 140,
+          "y_tensor": 168,
+          "rgb": [
+            29,
+            60,
+            229
+          ]
+        }
+      ]
+    }
+  ]
+}

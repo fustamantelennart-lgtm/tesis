@@ -1,0 +1,55 @@
+﻿11-18 15:24:56.920  4436  4569 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_vk_impeller.cc(62)] Using the Impeller rendering backend (Vulkan).
+11-18 15:24:57.172  4436  4436 I flutter : 00:00 +0: CP04: originales externos, checkpoint y comparacion completa
+11-18 15:24:58.193  4436  4436 I flutter : ══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+11-18 15:24:58.193  4436  4436 I flutter : The following StateError was thrown running a test:
+11-18 15:24:58.193  4436  4436 I flutter : Bad state: Falta
+11-18 15:24:58.193  4436  4436 I flutter : /storage/emulated/0/Android/data/com.example.campo_cnn/files/cp04/entrada/manifest.json; transferir
+11-18 15:24:58.193  4436  4436 I flutter : las 629 referencias antes de ejecutar.
+11-18 15:24:58.193  4436  4436 I flutter : 
+11-18 15:24:58.193  4436  4436 I flutter : When the exception was thrown, this was the stack:
+11-18 15:24:58.193  4436  4436 I flutter : #0      main.<anonymous closure> (file:///C:/Campo_CNN_Prototipo_Android%20(1)/campo_cnn_app/integration_test/concordancia_test.dart:45:7)
+11-18 15:24:58.193  4436  4436 I flutter : <asynchronous suspension>
+11-18 15:24:58.193  4436  4436 I flutter : #1      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+11-18 15:24:58.193  4436  4436 I flutter : <asynchronous suspension>
+11-18 15:24:58.193  4436  4436 I flutter : #2      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1952:5)
+11-18 15:24:58.193  4436  4436 I flutter : <asynchronous suspension>
+11-18 15:24:58.193  4436  4436 I flutter : #3      TestWidgetsFlutterBinding._createTestCompletionHandler.<anonymous closure> (package:flutter_test/src/binding.dart:1706:12)
+11-18 15:24:58.193  4436  4436 I flutter : <asynchronous suspension>
+11-18 15:24:58.193  4436  4436 I flutter : 
+11-18 15:24:58.193  4436  4436 I flutter : The test description was:
+11-18 15:24:58.193  4436  4436 I flutter :   CP04: originales externos, checkpoint y comparacion completa
+11-18 15:24:58.193  4436  4436 I flutter : ════════════════════════════════════════════════════════════════════════════════════════════════════
+11-18 15:24:58.194  4436  4436 I flutter : 00:01 +0: CP04: originales externos, checkpoint y comparacion completa [E]
+11-18 15:24:58.195  4436  4436 I flutter :   Test failed. See exception logs above.
+11-18 15:24:58.195  4436  4436 I flutter :   The test description was: CP04: originales externos, checkpoint y comparacion completa
+11-18 15:24:58.195  4436  4436 I flutter :   
+11-18 15:24:58.199  4436  4436 I flutter : 00:01 +0 -1: (tearDownAll)
+11-18 15:24:58.204  4436  4436 I flutter : 00:01 +1 -1: Some tests failed.
+11-18 15:28:56.590  4740  4790 I flutter : The Dart VM service is listening on http://127.0.0.1:39337/wuHKJwW9RLI=/
+11-18 15:28:56.841  4740  4781 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_vk_impeller.cc(62)] Using the Impeller rendering backend (Vulkan).
+11-18 15:28:57.781  4740  4740 I flutter : 00:00 +0: CP04: originales externos, checkpoint y comparacion completa
+11-18 15:29:00.329  4740  4740 I flutter : ══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞════════════════════════════════════════════════════
+11-18 15:29:00.330  4740  4740 I flutter : The following StateError was thrown running a test:
+11-18 15:29:00.330  4740  4740 I flutter : Bad state: Falta
+11-18 15:29:00.330  4740  4740 I flutter : /storage/emulated/0/Android/data/com.example.campo_cnn/files/cp04/entrada/manifest.json; transferir
+11-18 15:29:00.330  4740  4740 I flutter : las 629 referencias antes de ejecutar.
+11-18 15:29:00.330  4740  4740 I flutter : 
+11-18 15:29:00.330  4740  4740 I flutter : When the exception was thrown, this was the stack:
+11-18 15:29:00.330  4740  4740 I flutter : #0      main.<anonymous closure> (file:///C:/Campo_CNN_Prototipo_Android%20(1)/campo_cnn_app/integration_test/concordancia_test.dart:48:7)
+11-18 15:29:00.330  4740  4740 I flutter : <asynchronous suspension>
+11-18 15:29:00.330  4740  4740 I flutter : #1      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+11-18 15:29:00.330  4740  4740 I flutter : <asynchronous suspension>
+11-18 15:29:00.330  4740  4740 I flutter : #2      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1952:5)
+11-18 15:29:00.330  4740  4740 I flutter : <asynchronous suspension>
+11-18 15:29:00.330  4740  4740 I flutter : #3      TestWidgetsFlutterBinding._createTestCompletionHandler.<anonymous closure> (package:flutter_test/src/binding.dart:1706:12)
+11-18 15:29:00.330  4740  4740 I flutter : <asynchronous suspension>
+11-18 15:29:00.330  4740  4740 I flutter : 
+11-18 15:29:00.330  4740  4740 I flutter : The test description was:
+11-18 15:29:00.330  4740  4740 I flutter :   CP04: originales externos, checkpoint y comparacion completa
+11-18 15:29:00.330  4740  4740 I flutter : ════════════════════════════════════════════════════════════════════════════════════════════════════
+11-18 15:29:00.331  4740  4740 I flutter : 00:02 +0: CP04: originales externos, checkpoint y comparacion completa [E]
+11-18 15:29:00.332  4740  4740 I flutter :   Test failed. See exception logs above.
+11-18 15:29:00.332  4740  4740 I flutter :   The test description was: CP04: originales externos, checkpoint y comparacion completa
+11-18 15:29:00.332  4740  4740 I flutter :   
+11-18 15:29:00.338  4740  4740 I flutter : 00:02 +0 -1: (tearDownAll)
+11-18 15:29:00.346  4740  4740 I flutter : 00:02 +1 -1: Some tests failed.

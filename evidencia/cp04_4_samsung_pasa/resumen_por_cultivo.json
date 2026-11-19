@@ -1,0 +1,24 @@
+[
+    {
+        "cultivo":  "arroz",
+        "fotografias":  217,
+        "errores":  0,
+        "score_fuera_tolerancia":  0,
+        "categoria_distinta":  0,
+        "tensores_distintos":  217,
+        "tensor_max_abs":  9.98377799987793E-06,
+        "tensor_media_abs_max":  2.1652482667000215E-07,
+        "score_error_max_abs":  5.9604644775390625E-07
+    },
+    {
+        "cultivo":  "cana",
+        "fotografias":  412,
+        "errores":  0,
+        "score_fuera_tolerancia":  0,
+        "categoria_distinta":  0,
+        "tensores_distintos":  412,
+        "tensor_max_abs":  5.9604644775390625E-07,
+        "tensor_media_abs_max":  5.1455046349208246E-08,
+        "score_error_max_abs":  2.384185791015625E-07
+    }
+]

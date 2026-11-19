@@ -1,0 +1,410 @@
+[
+  {
+    "indice": 59,
+    "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0060.jpg",
+    "orientacion_exif": null,
+    "dimensiones_pillow_rgb": [
+      640,
+      480
+    ],
+    "dimensiones_dart_rgb": [
+      640,
+      480
+    ],
+    "rgb_max_abs_0_a_255": 15,
+    "rgb_media_abs_0_a_255": 1.006945529513889,
+    "rgb_bytes_distintos": 605105,
+    "rgb_bytes_total": 921600,
+    "caja_referencia": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_original": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.010698139667510986,
+      "indice_max_abs": 121703,
+      "media_abs": 0.0013574903604588757,
+      "rmse": 0.0019008942187230553,
+      "valores_distintos": 112793,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.0000034570693969726562,
+      "indice_max_abs": 21412,
+      "media_abs": 1.0642345217024895e-7,
+      "rmse": 2.1569576485242044e-7,
+      "valores_distintos": 92730,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.010698020458221436,
+      "indice_max_abs": 121703,
+      "media_abs": 0.001357490402778221,
+      "rmse": 0.001900893942104017,
+      "valores_distintos": 112528,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  },
+  {
+    "indice": 62,
+    "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0063.jpg",
+    "orientacion_exif": null,
+    "dimensiones_pillow_rgb": [
+      640,
+      480
+    ],
+    "dimensiones_dart_rgb": [
+      640,
+      480
+    ],
+    "rgb_max_abs_0_a_255": 27,
+    "rgb_media_abs_0_a_255": 1.5622601996527778,
+    "rgb_bytes_distintos": 699580,
+    "rgb_bytes_total": 921600,
+    "caja_referencia": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_original": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.01746341586112976,
+      "indice_max_abs": 79859,
+      "media_abs": 0.0015879869565001822,
+      "rmse": 0.002226165889581597,
+      "valores_distintos": 112891,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.000004649162292480469,
+      "indice_max_abs": 85957,
+      "media_abs": 1.475742762095808e-7,
+      "rmse": 3.0029962050511974e-7,
+      "valores_distintos": 99036,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.017463982105255127,
+      "indice_max_abs": 79859,
+      "media_abs": 0.0015879871525921894,
+      "rmse": 0.0022261652382744752,
+      "valores_distintos": 112867,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  },
+  {
+    "indice": 193,
+    "ruta_relativa": "arroz/val/sano/val_arroz_sano_0037.jpg",
+    "orientacion_exif": null,
+    "dimensiones_pillow_rgb": [
+      640,
+      480
+    ],
+    "dimensiones_dart_rgb": [
+      640,
+      480
+    ],
+    "rgb_max_abs_0_a_255": 24,
+    "rgb_media_abs_0_a_255": 1.1480110677083333,
+    "rgb_bytes_distintos": 631270,
+    "rgb_bytes_total": 921600,
+    "caja_referencia": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_original": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 0,
+      "min_y": 28,
+      "max_x": 223,
+      "max_y": 195
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.016831666231155396,
+      "indice_max_abs": 40535,
+      "media_abs": 0.0015590957959389295,
+      "rmse": 0.002131352439617617,
+      "valores_distintos": 112869,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.000003635883331298828,
+      "indice_max_abs": 99861,
+      "media_abs": 1.1897015431460285e-7,
+      "rmse": 2.577077228685993e-7,
+      "valores_distintos": 99530,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.016830816864967346,
+      "indice_max_abs": 40535,
+      "media_abs": 0.001559094119019404,
+      "rmse": 0.0021313507556590867,
+      "valores_distintos": 112768,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  },
+  {
+    "indice": 264,
+    "ruta_relativa": "cana/val/sano/test_cana_sano_0092.JPG",
+    "orientacion_exif": 1,
+    "dimensiones_pillow_rgb": [
+      3024,
+      4032
+    ],
+    "dimensiones_dart_rgb": [
+      3024,
+      4032
+    ],
+    "rgb_max_abs_0_a_255": 6,
+    "rgb_media_abs_0_a_255": 0.5099079771440469,
+    "rgb_bytes_distintos": 18214159,
+    "rgb_bytes_total": 36578304,
+    "caja_referencia": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_original": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.0041390955448150635,
+      "indice_max_abs": 147430,
+      "media_abs": 0.0012188787773796843,
+      "rmse": 0.001690660974179048,
+      "valores_distintos": 112893,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 2.980232238769531e-7,
+      "indice_max_abs": 952,
+      "media_abs": 3.363755528388898e-8,
+      "rmse": 5.374495611668286e-8,
+      "valores_distintos": 80100,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.004139065742492676,
+      "indice_max_abs": 147430,
+      "media_abs": 0.001218865321322512,
+      "rmse": 0.0016906438666940851,
+      "valores_distintos": 112892,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  },
+  {
+    "indice": 371,
+    "ruta_relativa": "cana/val/roya/train_cana_roya_0515.jpg",
+    "orientacion_exif": 6,
+    "dimensiones_pillow_rgb": [
+      3024,
+      4032
+    ],
+    "dimensiones_dart_rgb": [
+      3024,
+      4032
+    ],
+    "rgb_max_abs_0_a_255": 13,
+    "rgb_media_abs_0_a_255": 0.5582116382432603,
+    "rgb_bytes_distintos": 18804139,
+    "rgb_bytes_total": 36578304,
+    "caja_referencia": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_original": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.004069924354553223,
+      "indice_max_abs": 2887,
+      "media_abs": 0.0011274715066743896,
+      "rmse": 0.0015140596969971613,
+      "valores_distintos": 112896,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 2.980232238769531e-7,
+      "indice_max_abs": 119890,
+      "media_abs": 2.103174131903239e-8,
+      "rmse": 3.500801636766664e-8,
+      "valores_distintos": 80521,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.004069909453392029,
+      "indice_max_abs": 2887,
+      "media_abs": 0.0011274613257934048,
+      "rmse": 0.0015140483142042536,
+      "valores_distintos": 112896,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  },
+  {
+    "indice": 513,
+    "ruta_relativa": "cana/val/sano/train_cana_sano_0559.JPG",
+    "orientacion_exif": 6,
+    "dimensiones_pillow_rgb": [
+      3024,
+      4032
+    ],
+    "dimensiones_dart_rgb": [
+      3024,
+      4032
+    ],
+    "rgb_max_abs_0_a_255": 13,
+    "rgb_media_abs_0_a_255": 0.5576562270355673,
+    "rgb_bytes_distintos": 19344421,
+    "rgb_bytes_total": 36578304,
+    "caja_referencia": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_original": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "caja_desde_pillow_rgb": {
+      "min_x": 28,
+      "min_y": 0,
+      "max_x": 195,
+      "max_y": 223
+    },
+    "tensor_original_vs_colab": {
+      "valores": 150528,
+      "max_abs": 0.004099369049072266,
+      "indice_max_abs": 102556,
+      "media_abs": 0.0012146401797984603,
+      "rmse": 0.0016523247181045326,
+      "valores_distintos": 112896,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_pillow_rgb_vs_colab": {
+      "valores": 150528,
+      "max_abs": 3.5762786865234375e-7,
+      "indice_max_abs": 23688,
+      "media_abs": 3.193337945395754e-8,
+      "rmse": 5.172129897891929e-8,
+      "valores_distintos": 79826,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    },
+    "tensor_original_vs_pillow_rgb": {
+      "valores": 150528,
+      "max_abs": 0.004099339246749878,
+      "indice_max_abs": 102556,
+      "media_abs": 0.0012146255014259596,
+      "rmse": 0.001652307932937491,
+      "valores_distintos": 112894,
+      "tolerancia_max_abs": null,
+      "valores_fuera_tolerancia": null,
+      "cumple": null
+    }
+  }
+]

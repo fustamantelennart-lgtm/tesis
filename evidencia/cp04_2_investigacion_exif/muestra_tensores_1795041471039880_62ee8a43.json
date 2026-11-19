@@ -1,0 +1,322 @@
+{
+  "id_ejecucion": "1795041471039880_62ee8a43",
+  "modo": "muestra",
+  "entorno_declarado": "LDPlayer",
+  "codigo_sha256": "c8911756343cfa73a9ae7b6fb9b5e7608a9425354bae3c69da926abe43a834de",
+  "manifest_sha256": "912ca1d6932025f8583bf3ef1ec5b362b6b702c067cadf41578e18e53af7ac6d",
+  "modelos_sha256": {
+    "arroz": "0728e2ddedc0db0959870ef420c204df3094fd780ef520c0d3fb2b10a9090040",
+    "cana": "9042f0dffc63a6c143fd64a8d36a34ab25bc96cb74b21e51df35d7e88a368bec"
+  },
+  "criterio_score": "abs(android-colab) <= 1e-5 + 1e-4*abs(colab)",
+  "criterio_categoria": "mismo_umbral_y_misma_clase",
+  "total_manifest": 629,
+  "seleccionadas": 6,
+  "errores_ejecucion": 0,
+  "fallos_motor": 0,
+  "fallos_motor_diagnostico": 0,
+  "estado": "referencia_pasa",
+  "cp04_aprobado_automaticamente": false,
+  "resultados": [
+    {
+      "indice": 59,
+      "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0060.jpg",
+      "cultivo": "arroz",
+      "particion": "val",
+      "sha256_tensor_referencia": "5dedc215d41ff50f0366682387be493a2f2d7127d4e874b185d87d851b07eb0e",
+      "sha256_tensor_verificado": "5dedc215d41ff50f0366682387be493a2f2d7127d4e874b185d87d851b07eb0e",
+      "motor": {
+        "referencia": 0.6301611661911011,
+        "android": 0.6301611661911011,
+        "error_abs": 0.0,
+        "limite": 0.00007301611661911011,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 0.6301611661911011,
+        "android": 0.6301611661911011,
+        "error_abs": 0.0,
+        "limite": 0.00007301611661911011,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.010698139667510986,
+          "indice_max_abs": 121703,
+          "media_abs": 0.0013574903604588757,
+          "rmse": 0.0019008942187230553,
+          "valores_distintos": 112793,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 0.6301611661911011,
+        "score_actual": 0.6590688824653625,
+        "score_error_abs": 0.028907716274261475,
+        "score_limite": 0.00007301611661911011,
+        "score_cumple": false,
+        "categoria_referencia": 0,
+        "categoria_actual": 1,
+        "categoria_coincide": false
+      }
+    },
+    {
+      "indice": 62,
+      "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0063.jpg",
+      "cultivo": "arroz",
+      "particion": "val",
+      "sha256_tensor_referencia": "ac334f0141d0ad140895072566b122049a2cf63e5a8e2c70e3bbf27cd6c394ce",
+      "sha256_tensor_verificado": "ac334f0141d0ad140895072566b122049a2cf63e5a8e2c70e3bbf27cd6c394ce",
+      "motor": {
+        "referencia": 0.99573814868927,
+        "android": 0.99573814868927,
+        "error_abs": 0.0,
+        "limite": 0.000109573814868927,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_android": 1,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 0.99573814868927,
+        "android": 0.99573814868927,
+        "error_abs": 0.0,
+        "limite": 0.000109573814868927,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_android": 1,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.01746341586112976,
+          "indice_max_abs": 79859,
+          "media_abs": 0.0015879869565001822,
+          "rmse": 0.002226165889581597,
+          "valores_distintos": 112891,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 0.99573814868927,
+        "score_actual": 0.9957380294799805,
+        "score_error_abs": 1.1920928955078125e-7,
+        "score_limite": 0.000109573814868927,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_actual": 1,
+        "categoria_coincide": true
+      }
+    },
+    {
+      "indice": 193,
+      "ruta_relativa": "arroz/val/sano/val_arroz_sano_0037.jpg",
+      "cultivo": "arroz",
+      "particion": "val",
+      "sha256_tensor_referencia": "884e5a68ab239e244ad270e95f09b4e3bda0ae0451f72b09c5b73d6fdbe33aec",
+      "sha256_tensor_verificado": "884e5a68ab239e244ad270e95f09b4e3bda0ae0451f72b09c5b73d6fdbe33aec",
+      "motor": {
+        "referencia": 0.5740396976470947,
+        "android": 0.5740397572517395,
+        "error_abs": 5.960464477539063e-8,
+        "limite": 0.00006740396976470947,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 0.5740396976470947,
+        "android": 0.5740397572517395,
+        "error_abs": 5.960464477539063e-8,
+        "limite": 0.00006740396976470947,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.016831666231155396,
+          "indice_max_abs": 40535,
+          "media_abs": 0.0015590957959389295,
+          "rmse": 0.002131352439617617,
+          "valores_distintos": 112869,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 0.5740396976470947,
+        "score_actual": 0.6067546010017395,
+        "score_error_abs": 0.032714903354644775,
+        "score_limite": 0.00006740396976470947,
+        "score_cumple": false,
+        "categoria_referencia": 0,
+        "categoria_actual": 0,
+        "categoria_coincide": true
+      }
+    },
+    {
+      "indice": 264,
+      "ruta_relativa": "cana/val/sano/test_cana_sano_0092.JPG",
+      "cultivo": "cana",
+      "particion": "val",
+      "sha256_tensor_referencia": "74b06a07f3982922ec0278e224645dc0d51418698f005accb5fadab6c188a4f5",
+      "sha256_tensor_verificado": "74b06a07f3982922ec0278e224645dc0d51418698f005accb5fadab6c188a4f5",
+      "motor": {
+        "referencia": 0.00014515453949570656,
+        "android": 0.00014515427756123245,
+        "error_abs": 2.6193447411060333e-10,
+        "limite": 0.000010014515453949571,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 0.00014515453949570656,
+        "android": 0.00014515427756123245,
+        "error_abs": 2.6193447411060333e-10,
+        "limite": 0.000010014515453949571,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.0041390955448150635,
+          "indice_max_abs": 147430,
+          "media_abs": 0.0012188787773796843,
+          "rmse": 0.001690660974179048,
+          "valores_distintos": 112893,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 0.00014515453949570656,
+        "score_actual": 0.00014306535013020039,
+        "score_error_abs": 0.000002089189365506172,
+        "score_limite": 0.000010014515453949571,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_actual": 0,
+        "categoria_coincide": true
+      }
+    },
+    {
+      "indice": 371,
+      "ruta_relativa": "cana/val/roya/train_cana_roya_0515.jpg",
+      "cultivo": "cana",
+      "particion": "val",
+      "sha256_tensor_referencia": "1cfe8b9804d247f73d499dfcf184b3eb847531d3ca19b1c465f37cc1148de1d0",
+      "sha256_tensor_verificado": "1cfe8b9804d247f73d499dfcf184b3eb847531d3ca19b1c465f37cc1148de1d0",
+      "motor": {
+        "referencia": 1.0,
+        "android": 1.0,
+        "error_abs": 0.0,
+        "limite": 0.00011,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_android": 1,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 1.0,
+        "android": 1.0,
+        "error_abs": 0.0,
+        "limite": 0.00011,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_android": 1,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.004069924354553223,
+          "indice_max_abs": 2887,
+          "media_abs": 0.0011274715066743896,
+          "rmse": 0.0015140596969971613,
+          "valores_distintos": 112896,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 1.0,
+        "score_actual": 1.0,
+        "score_error_abs": 0.0,
+        "score_limite": 0.00011,
+        "score_cumple": true,
+        "categoria_referencia": 1,
+        "categoria_actual": 1,
+        "categoria_coincide": true
+      }
+    },
+    {
+      "indice": 513,
+      "ruta_relativa": "cana/val/sano/train_cana_sano_0559.JPG",
+      "cultivo": "cana",
+      "particion": "val",
+      "sha256_tensor_referencia": "e5f6d3e5fdf933caeb40610a86284e3f1120f3ff5273be4d8b407686c6c339dd",
+      "sha256_tensor_verificado": "e5f6d3e5fdf933caeb40610a86284e3f1120f3ff5273be4d8b407686c6c339dd",
+      "motor": {
+        "referencia": 5.3322867898941695e-8,
+        "android": 5.3322867898941695e-8,
+        "error_abs": 0.0,
+        "limite": 0.000010000005332286791,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "motor_diagnostico": {
+        "referencia": 5.3322867898941695e-8,
+        "android": 5.3322867898941695e-8,
+        "error_abs": 0.0,
+        "limite": 0.000010000005332286791,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_android": 0,
+        "categoria_coincide": true
+      },
+      "diferencia_ejecutores": 0.0,
+      "desde_original": {
+        "tensor": {
+          "valores": 150528,
+          "max_abs": 0.004099369049072266,
+          "indice_max_abs": 102556,
+          "media_abs": 0.0012146401797984603,
+          "rmse": 0.0016523247181045326,
+          "valores_distintos": 112896,
+          "tolerancia_max_abs": null,
+          "valores_fuera_tolerancia": null,
+          "cumple": null
+        },
+        "score_referencia": 5.3322867898941695e-8,
+        "score_actual": 4.973831835286546e-8,
+        "score_error_abs": 3.5845495460762322e-9,
+        "score_limite": 0.000010000005332286791,
+        "score_cumple": true,
+        "categoria_referencia": 0,
+        "categoria_actual": 0,
+        "categoria_coincide": true
+      }
+    }
+  ]
+}

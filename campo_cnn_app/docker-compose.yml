@@ -1,0 +1,33 @@
+# Entorno Campo CNN. Uso: docker compose run --rm campo <comando>
+# Comandos y requisitos: docker/LEEME_DOCKER.md
+services:
+  campo:
+    build:
+      context: ./docker
+    image: campo-cnn-entorno:flutter-3.44.6
+    # Las herramientas Android (aapt2, NDK) solo existen para x86_64.
+    platform: linux/amd64
+    volumes:
+      # Codigo en solo lectura: el contenedor trabaja sobre su propia copia.
+      - ./:/src:ro
+      # Referencias CP04 (manifest.json, original_*.bin, tensor_*.bin). Opcional.
+      - ${CP04_FIXTURES:-./integration_test/fixtures}:/work/campo_cnn_app/integration_test/fixtures:ro
+      # APK, huellas e informes generados.
+      - ./salida_docker:/salida
+      - trabajo:/work
+      - pub:/root/.pub-cache
+      - gradle:/root/.gradle
+    # /tmp en memoria: las pruebas SQLite hacen fsync constantemente y en el
+    # sistema de archivos superpuesto de Docker Desktop superan los 30 s por prueba.
+    tmpfs:
+      - /tmp:exec
+    environment:
+      # Cabe en la VM de Docker Desktop por defecto (~4 GB). Subirlo si hay mas RAM.
+      GRADLE_JVMARGS: ${GRADLE_JVMARGS:--Xmx2560m -XX:MaxMetaspaceSize=768m}
+      HOST_UID: ${HOST_UID:-}
+      HOST_GID: ${HOST_GID:-}
+
+volumes:
+  trabajo:
+  pub:
+  gradle:

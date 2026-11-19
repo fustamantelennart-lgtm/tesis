@@ -1,0 +1,7 @@
+indice,ruta_relativa,cultivo,error,score_referencia,score_motor,score_motor_cumple,categoria_motor_coincide,score_motor_diagnostico,score_motor_diagnostico_cumple,categoria_motor_diagnostico_coincide,diferencia_ejecutores,tensor_original_max_abs,score_original,score_original_cumple,categoria_original_coincide
+"59","arroz/val/piricularia/val_arroz_piricularia_0060.jpg","arroz","","0.6301611661911011","0.6301611661911011","true","true","0.6301611661911011","true","true","0.0","0.010698139667510986","0.6590688824653625","false","false"
+"62","arroz/val/piricularia/val_arroz_piricularia_0063.jpg","arroz","","0.99573814868927","0.99573814868927","true","true","0.99573814868927","true","true","0.0","0.01746341586112976","0.9957380294799805","true","true"
+"193","arroz/val/sano/val_arroz_sano_0037.jpg","arroz","","0.5740396976470947","0.5740397572517395","true","true","0.5740397572517395","true","true","0.0","0.016831666231155396","0.6067546010017395","false","true"
+"264","cana/val/sano/test_cana_sano_0092.JPG","cana","","0.00014515453949570656","0.00014515427756123245","true","true","0.00014515427756123245","true","true","0.0","0.0041390955448150635","0.00014306535013020039","true","true"
+"371","cana/val/roya/train_cana_roya_0515.jpg","cana","","1.0","1.0","true","true","1.0","true","true","0.0","0.004069924354553223","1.0","true","true"
+"513","cana/val/sano/train_cana_sano_0559.JPG","cana","","5.3322867898941695e-8","5.3322867898941695e-8","true","true","5.3322867898941695e-8","true","true","0.0","0.004099369049072266","4.973831835286546e-8","true","true"

@@ -1,0 +1,101 @@
+{
+  "pillow": "11.3.0",
+  "casos": [
+    {
+      "indice": 59,
+      "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0060.jpg",
+      "formato_real": "JPEG",
+      "orientacion_exif": null,
+      "dimensiones_sin_orientar": [
+        640,
+        480
+      ],
+      "dimensiones_pillow_rgb": [
+        640,
+        480
+      ],
+      "sha256_rgb_pillow": "3acfcdd71c5bad4d68a32b6948013376fe0fa03f4530aa6e44f4eb661bf69d5e",
+      "png": "pillow_rgb_0059.png"
+    },
+    {
+      "indice": 62,
+      "ruta_relativa": "arroz/val/piricularia/val_arroz_piricularia_0063.jpg",
+      "formato_real": "JPEG",
+      "orientacion_exif": null,
+      "dimensiones_sin_orientar": [
+        640,
+        480
+      ],
+      "dimensiones_pillow_rgb": [
+        640,
+        480
+      ],
+      "sha256_rgb_pillow": "a6a045fcfcc55a0217cef46ca6c2a963a9ec12f28be927456153adfc29de3100",
+      "png": "pillow_rgb_0062.png"
+    },
+    {
+      "indice": 193,
+      "ruta_relativa": "arroz/val/sano/val_arroz_sano_0037.jpg",
+      "formato_real": "JPEG",
+      "orientacion_exif": null,
+      "dimensiones_sin_orientar": [
+        640,
+        480
+      ],
+      "dimensiones_pillow_rgb": [
+        640,
+        480
+      ],
+      "sha256_rgb_pillow": "a69d2c6b45e4dd1d7bf7fa6b85aa99b6836db5521b3ac5ba2eefe04b0a0beb4d",
+      "png": "pillow_rgb_0193.png"
+    },
+    {
+      "indice": 264,
+      "ruta_relativa": "cana/val/sano/test_cana_sano_0092.JPG",
+      "formato_real": "MPO",
+      "orientacion_exif": 1,
+      "dimensiones_sin_orientar": [
+        3024,
+        4032
+      ],
+      "dimensiones_pillow_rgb": [
+        3024,
+        4032
+      ],
+      "sha256_rgb_pillow": "4d20f6504cf8b0ab683e8cd861f278633c0f2a4ae7936035dafd731c20dbbd59",
+      "png": "pillow_rgb_0264.png"
+    },
+    {
+      "indice": 371,
+      "ruta_relativa": "cana/val/roya/train_cana_roya_0515.jpg",
+      "formato_real": "JPEG",
+      "orientacion_exif": 6,
+      "dimensiones_sin_orientar": [
+        4032,
+        3024
+      ],
+      "dimensiones_pillow_rgb": [
+        3024,
+        4032
+      ],
+      "sha256_rgb_pillow": "bd6d53addf03b160494f2daf6295b8f637163c4145d6593678134ab21c8983bf",
+      "png": "pillow_rgb_0371.png"
+    },
+    {
+      "indice": 513,
+      "ruta_relativa": "cana/val/sano/train_cana_sano_0559.JPG",
+      "formato_real": "MPO",
+      "orientacion_exif": 6,
+      "dimensiones_sin_orientar": [
+        4032,
+        3024
+      ],
+      "dimensiones_pillow_rgb": [
+        3024,
+        4032
+      ],
+      "sha256_rgb_pillow": "9f4a5337b37859f1bb7fd5ce5fbec7f230bba785d5abd2b598b8759b8cc498c7",
+      "png": "pillow_rgb_0513.png"
+    }
+  ]
+}

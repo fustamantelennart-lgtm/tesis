@@ -1,0 +1,17 @@
+# Material local que no se versiona: copia .rar del proyecto, respaldos .tgz
+# del espacio privado de la app y otros respaldos de trabajo.
+/_local/
+
+# Binarios regenerables.
+*.apk
+*.aab
+
+# RGB de Pillow derivado de fotografias de validacion (17-22 MB cada uno).
+# Las fotografias y tensores de validacion tampoco se versionan
+# (ver campo_cnn_app/.gitignore e integration_test/fixtures/README.txt).
+/evidencia/cp04_2_investigacion_exif/pillow_etapas/*.png
+
+# Sistema operativo y editores.
+Thumbs.db
+desktop.ini
+.DS_Store
